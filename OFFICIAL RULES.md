@@ -24,7 +24,7 @@ Employees and directors of Microsoft Corporation and its subsidiaries, affiliate
 To register to participate in the Contest, you must:
 - Register at the official Agents League registration page: [Agents League Contest](https://aka.ms/AgentsLeague/AISF) – Fill out form; **and**
 -	Follow the instructions in the email issued following registration to activate your profile in the Hackathon platform; **and**
--	Pick at least one of the following Challenges(each a “Challenge”) to participate in at website provided within the registration confirmation email to activate your profile (“Contest Website”): 
+-	Pick at least one of the following Challenges (each a “Challenge”) to participate in at website provided within the registration confirmation email to activate your profile (“Contest Website”): 
     - Creative Apps - Build innovative creative applications using AI-assisted development (GitHub Copilot)
     -	Reasoning Agents - Create intelligent agents that solve complex problems through multi-step reasoning (Microsoft Foundry)
     -	Enterprise Agents - Build business-ready agents for Microsoft 365 Copilot (Microsoft 365 Copilot). 
@@ -81,66 +81,66 @@ Potential winners will be notified via the contact information provided during e
 
 The following prizes will be awarded: 
 
-**Best overall agent-A prize package consisting of the following items:**
+**Best overall agent - A prize package consisting of the following items:**
 -	A cash prize, to be awarded as an e-Mastercard ($15,000)
 -	Swag box ($500)
 -	Digital dev toolkit , including Azure Credits ($500)
 -	1 year GitHub Copilot Pro+ plan ($468)
 
-**Fair Market Value (“FMV”): 16,468.00 USD	1 winner**	
+**Fair Market Value (“FMV”): 16,468.00 USD; 1 winner**	
 
-**Best Creative App-A prize package consisting of the following items:**
+**Best Creative App - A prize package consisting of the following items:**
 -	A cash prize, to be awarded as an e-Mastercard ($5,000 USD) 
 -	A Swag box ($500)
 -	Digital dev toolkit, including Azure Credits ($500)
 -	1 year GitHub Copilot Pro+ plan ($468)
 
-**FMV: 6,468.00 USD	1 winner**	
+**FMV: 6,468.00 USD; 1 winner**	
 
-**Best Reasoning Agent-A prize package consisting of the following items:**
+**Best Reasoning Agent - A prize package consisting of the following items:**
 -	A cash prize, to be awarded as an e-Mastercard ($5,000.00 USD) 
 -	A Swag box ($500.00 USD)
 -	Digital dev toolkit, including Azure Credits ($500.00 USD)
 -	1 year GitHub Copilot Pro+ plan ($468.00 USD)
 
-**FMV: 6,468.00 USD	1 winner**	
+**FMV: 6,468.00 USD; 1 winner**	
 
-**Best Enterprise Agent-A prize package consisting of the following items:**
+**Best Enterprise Agent - A prize package consisting of the following items:**
 -	A cash prize, to be awarded as an e-Mastercard ($5,000.00 USD) 
 -	A Swag box ($500.00 USD)
 -	A Digital dev toolkit, including Azure Credits ($500.00 USD)
 -	1 year GitHub Copilot Pro+ plan ($468.00 USD)
 
-**FMV: 6,468.00 USD	1 winner**
+**FMV: 6,468.00 USD; 1 winner**
 
-**Best use of IQ tools-A prize package consisting of the following items:**
+**Best use of IQ tools - A prize package consisting of the following items:**
 -	A cash prize, to be awarded as an e-Mastercard ($5,000.00 USD)
 -	A Swag box ($500.00 USD)
 -	A Digital dev toolkit, including Azure Credits ($500.00 USD)
 -	1 year GitHub Copilot Pro+ plan ($468.00 USD)
 
-**FMV: 6,468.00 USD	1 winner**	
+**FMV: 6,468.00 USD; 1 winner**	
 
-**Top student award-A prize package consisting of the following items:**
+**Top student award - A prize package consisting of the following items:**
 -	Swag box ($500.00 USD)
 -	Digital dev toolkit, including Azure Credits ($500.00 USD)
 -	1 year GitHub Pro+ plan ($468.00 USD)
 
-**FMV: $1,468.00 USD-3 winners. Winners must be enrolled university students**
+**FMV: $1,468.00 USD; 3 winners. Winners must be enrolled university students**
 
-**Accessibility award-A prize package consisting of the following items:**
+**Accessibility award - A prize package consisting of the following items:**
 -	Swag box ($500.00 USD)
 -	Digital dev toolkit, including Azure Credits ($500.00 USD)
 -	1 year GitHub Pro+ plan ($468.00 USD)
 
-**FMV: $1,468.00 USD-3 winners.	Awarded to the entry that best uses accessibility-first design principles**
+**FMV: $1,468.00 USD; 3 winners. Awarded to the entry that best uses accessibility-first design principles**
 
-**Hack for Good	A prize package consisting of the following items:**
+**Hack for Good - A prize package consisting of the following items:**
 -	Swag box ($500.00 USD)
 -	Digital dev toolkit, including Azure Credits ($500.00 USD)
 -	1 year GitHub Pro+ plan ($468.00 USD)
 
-**FMV: $1,468.00 USD-3 winners. Awarded to the best solutions to solve a community need**
+**FMV: $1,468.00 USD; 3 winners. Awarded to the best solutions to solve a community need**
 
 The FMV of electronic prizes is subject to price fluctuations in the consumer marketplace based on, among other things, any gap in time between the date the FMV is estimated for purposes of these Official Rules and the date the prize is awarded or redeemed. We will determine the value of the prize to be the fair market value at the time of prize award.
 
@@ -177,4 +177,4 @@ This Contest will be governed by the laws of the State of Washington, and you co
 
 **14.	WINNERS LIST**
 
-Send an email to [hackathonsupport@microsoft.com](mailto:chtalave@microsoft.com) with the subject line “Agents League Contest winners” within thirty (30) days of July 31, 2026 to receive a list of winners that received a prize worth $25.00 USD or more.
+Send an email to [hackathonsupport@microsoft.com](mailto:hackathonsupport@microsoft.com) with the subject line “Agents League Contest winners” within thirty (30) days of July 31, 2026 to receive a list of winners that received a prize worth $25.00 USD or more.
