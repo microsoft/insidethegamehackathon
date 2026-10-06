@@ -1,6 +1,6 @@
 ## AI Skills Navigator Playlists for the Premier League Hack
 
-Use these curated AI Skills Navigator playlists to build the skills you’ll need for the Premier League Hack. Whether you’re new to GitHub Copilot, exploring Azure AI Foundry, or building agentic workflows, these resources can help you get started.
+Participating in the Inside the Game: Developer Hackathon? Start here. These AI Skills Navigator playlists are designed to help you quickly build the skills needed to create impactful solutions using GitHub Copilot, Azure AI Foundry, agents, workflows, and data.
 
 | Playlist | What you’ll learn |
 |---|---|
