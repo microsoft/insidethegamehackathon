@@ -5,7 +5,7 @@ Participating in the Inside the Game: Developer Hackathon? Start here. These AI 
 | Playlist | What you’ll learn |
 |---|---|
 | [GitHub Copilot](https://aka.ms/asn/ghcopilot) | Use GitHub Copilot to accelerate coding, debugging, and solution development. |
-| [Azure AI Foundry](https://aka.ms/asn/foundry) | Build, evaluate, and manage AI apps using Azure AI Foundry. |
+| [Microsoft Foundry](https://aka.ms/asn/foundry) | Build, evaluate, and manage AI apps using Azure AI Foundry. |
 | [Foundry Agents](https://aka.ms/asn/foundryagents) | Create AI agents that can reason, use tools, and complete tasks. |
 | [Agentic Workflows](https://aka.ms/asn/agenticworkflows) | Design multi-step AI workflows that combine models, data, and automation. |
 | [Data](https://aka.ms/asn/data) | Work with data as the foundation for impactful AI experiences. |
